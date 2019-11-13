@@ -1,0 +1,225 @@
+{
+  "status": true,
+  "message": "Successfully retrieved vehicles",
+  "vehicles": [
+    {
+      "id": 38473,
+      "model_name": "NISSAN ALMERA",
+      "images": [
+        {
+          "id": 18991,
+          "original": "https://img1.icarcdn.com/7984784/gallery_new-car-carlist-nissan-almera-e-sedan-malaysia_7984784_YJrKfFvbotuqFt1SbkEX4X.jpg",
+          "square": "https://img1.icarcdn.com/7984784/gallery_new-car-carlist-nissan-almera-e-sedan-malaysia_7984784_YJrKfFvbotuqFt1SbkEX4X.jpg",
+          "default_image": true
+        }
+      ],
+      "rating": 0,
+      "trips": 0,
+      "latitude": 3.0844999,
+      "longitude": 101.6734249,
+      "distance": "0.81km away",
+      "is_instant_booking": false,
+      "faq_url": "https://www.moovby.com/faq",
+      "banner": {
+        "banner_url": "https://s3-ap-southeast-1.amazonaws.com/moovby-mobile-assets/banners/Insurance.png",
+        "link": ""
+      },
+      "model_id": 24,
+      "currency": "MYR",
+      "hourly_rate": 12.0,
+      "is_favourite": false
+    },
+    {
+      "id": 30293,
+      "model_name": "PROTON SAGA",
+      "images": [
+        {
+          "id": 17591,
+          "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/1989_Proton_Saga_%28Magma%29_1.3S_4-door_saloon_%2819638569848%29.jpg",
+          "square": "https://upload.wikimedia.org/wikipedia/commons/f/f4/1989_Proton_Saga_%28Magma%29_1.3S_4-door_saloon_%2819638569848%29.jpg",
+          "default_image": true
+        }
+      ],
+      "rating": 0,
+      "trips": 0,
+      "latitude": 3.079655,
+      "longitude": 101.6794045,
+      "distance": "1.65km away",
+      "is_instant_booking": false,
+      "faq_url": "https://www.moovby.com/faq",
+      "banner": {
+        "banner_url": "https://s3-ap-southeast-1.amazonaws.com/moovby-mobile-assets/banners/Insurance.png",
+        "link": ""
+      },
+      "model_id": 6,
+      "currency": "MYR",
+      "hourly_rate": 7.0,
+      "is_favourite": false
+    },
+    {
+      "id": 43884,
+      "model_name": "TOYOTA ESTIMA",
+      "images": [
+        {
+          "id": 14361,
+          "original": "https://assets.nst.com.my/images/articles/OLYMPICS-2020_ROBOT_TAXItoyotaselfdrobsnffgh_1535412972.jpg",
+          "square": "https://assets.nst.com.my/images/articles/OLYMPICS-2020_ROBOT_TAXItoyotaselfdrobsnffgh_1535412972.jpg",
+          "default_image": true
+        },
+        {
+          "id": 14401,
+          "original": "https://assets.nst.com.my/images/articles/OLYMPICS-2020_ROBOT_TAXItoyotaselfdrobsnffgh_1535412972.jpg",
+          "square": "https://assets.nst.com.my/images/articles/OLYMPICS-2020_ROBOT_TAXItoyotaselfdrobsnffgh_1535412972.jpg",
+          "default_image": false
+        },
+      ],
+      "rating": 0,
+      "trips": 0,
+      "latitude": 3.0735818,
+      "longitude": 101.6725203,
+      "distance": "1.7km away",
+      "is_instant_booking": false,
+      "faq_url": "https://www.moovby.com/faq",
+      "banner": {
+        "banner_url": "https://s3-ap-southeast-1.amazonaws.com/moovby-mobile-assets/banners/Insurance.png",
+        "link": ""
+      },
+      "model_id": 16,
+      "currency": "MYR",
+      "hourly_rate": 35.0,
+      "is_favourite": false
+    },
+    {
+      "id": 50085,
+      "model_name": "NISSAN ALMERA",
+      "images": [
+        {
+          "id": 43814,
+          "original": "https://img1.icarcdn.com/7984784/gallery_new-car-carlist-nissan-almera-e-sedan-malaysia_7984784_YJrKfFvbotuqFt1SbkEX4X.jpg",
+          "square": "https://img1.icarcdn.com/7984784/gallery_new-car-carlist-nissan-almera-e-sedan-malaysia_7984784_YJrKfFvbotuqFt1SbkEX4X.jpg",
+          "default_image": true
+        },
+        {
+          "id": 43804,
+          "original": "https://img1.icarcdn.com/7984784/gallery_new-car-carlist-nissan-almera-e-sedan-malaysia_7984784_YJrKfFvbotuqFt1SbkEX4X.jpg",
+          "square": "https://img1.icarcdn.com/7984784/gallery_new-car-carlist-nissan-almera-e-sedan-malaysia_7984784_YJrKfFvbotuqFt1SbkEX4X.jpg",
+          "default_image": false
+        }
+      ],
+      "rating": 0,
+      "trips": 0,
+      "latitude": 3.1006985,
+      "longitude": 101.676317,
+      "distance": "1.76km away",
+      "is_instant_booking": false,
+      "faq_url": "https://www.moovby.com/faq",
+      "banner": {
+        "banner_url": "https://s3-ap-southeast-1.amazonaws.com/moovby-mobile-assets/banners/Insurance.png",
+        "link": ""
+      },
+      "model_id": 24,
+      "currency": "MYR",
+      "hourly_rate": 7.0,
+      "is_favourite": false
+    },
+    {
+      "id": 38153,
+      "model_name": "PROTON PERSONA",
+      "images": [
+        {
+          "id": 17861,
+          "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-30%29.jpg/1200px-1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-30%29.jpg",
+          "square": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-30%29.jpg/1200px-1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-30%29.jpg",
+          "default_image": true
+        }
+      ],
+      "rating": 0,
+      "trips": 0,
+      "latitude": 3.079551,
+      "longitude": 101.6527928,
+      "distance": "1.83km away",
+      "is_instant_booking": false,
+      "faq_url": "https://www.moovby.com/faq",
+      "banner": {
+        "banner_url": "https://s3-ap-southeast-1.amazonaws.com/moovby-mobile-assets/banners/Insurance.png",
+        "link": ""
+      },
+      "model_id": 7,
+      "currency": "MYR",
+      "hourly_rate": 11.0,
+      "is_favourite": false
+    },
+    {
+      "id": 39253,
+      "model_name": "TOYOTA VIOS",
+      "images": [
+        {
+          "id": 15301,
+          "original": "http://3.bp.blogspot.com/-PAY6ijt3Uik/Uzjsxnn2z-I/AAAAAAAAAD8/8Au4QhPO2yA/s1600/NASCAr-Edition-Toyota-Camry-Coupe.jpg",
+          "square": "http://3.bp.blogspot.com/-PAY6ijt3Uik/Uzjsxnn2z-I/AAAAAAAAAD8/8Au4QhPO2yA/s1600/NASCAr-Edition-Toyota-Camry-Coupe.jpg",
+          "default_image": true
+        }
+      ],
+      "rating": 0,
+      "trips": 0,
+      "latitude": 3.1049853,
+      "longitude": 101.6635608,
+      "distance": "1.94km away",
+      "is_instant_booking": false,
+      "faq_url": "https://www.moovby.com/faq",
+      "banner": {
+        "banner_url": "https://s3-ap-southeast-1.amazonaws.com/moovby-mobile-assets/banners/Insurance.png",
+        "link": ""
+      },
+      "model_id": 15,
+      "currency": "MYR",
+      "hourly_rate": 15.0,
+      "is_favourite": false
+    },
+    {
+      "id": 46614,
+      "model_name": "TOYOTA VELLFIRE",
+      "images": [
+        {
+          "id": 31893,
+          "original": "https://decepticomics.com/wp-content/uploads/2019/06/53-All-New-Toyota-Vellfire-2020-Concept-and-Review.jpg",
+          "square": "https://decepticomics.com/wp-content/uploads/2019/06/53-All-New-Toyota-Vellfire-2020-Concept-and-Review.jpg",
+          "default_image": true
+        },
+        {
+          "id": 51155,
+          "original": "https://decepticomics.com/wp-content/uploads/2019/06/53-All-New-Toyota-Vellfire-2020-Concept-and-Review.jpg",
+          "square": "https://decepticomics.com/wp-content/uploads/2019/06/53-All-New-Toyota-Vellfire-2020-Concept-and-Review.jpg",
+          "default_image": false
+        },
+        {
+          "id": 51145,
+          "original": "https://decepticomics.com/wp-content/uploads/2019/06/53-All-New-Toyota-Vellfire-2020-Concept-and-Review.jpg",
+          "square": "https://decepticomics.com/wp-content/uploads/2019/06/53-All-New-Toyota-Vellfire-2020-Concept-and-Review.jpg",
+          "default_image": false
+        }
+      ],
+      "rating": 5.0,
+      "trips": 3,
+      "latitude": 3.0768062,
+      "longitude": 101.6806977,
+      "distance": "1.96km away",
+      "is_instant_booking": false,
+      "faq_url": "https://www.moovby.com/faq",
+      "banner": {
+        "banner_url": "https://s3-ap-southeast-1.amazonaws.com/moovby-mobile-assets/banners/Insurance.png",
+        "link": ""
+      },
+      "model_id": 17,
+      "currency": "MYR",
+      "hourly_rate": 48.0,
+      "is_favourite": false
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1616,
+    "per_page": 30,
+    "total_entries": 466166
+  }
+}
